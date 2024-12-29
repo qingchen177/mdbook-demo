@@ -1,4 +1,4 @@
 # Summary
 
-- [Hello](./chapter_1.md)
+- [Hello](./hello_world.md)
 - [Qingchen](./qingchen.md)
