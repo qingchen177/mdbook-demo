@@ -1,0 +1,6 @@
+[book]
+authors = ["li-qingchen"]
+language = "en"
+multilingual = false
+src = "src"
+title = "qingchen-mdbook-demo"
